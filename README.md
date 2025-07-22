@@ -1,18 +1,30 @@
-# Customer & Sales Analysis (Python)
+# 🧾 Customer Sales Analysis (Python)
 
-This project analyzes sales data from a global retail store to identify trends, top customers, and regional category performance using pandas, matplotlib, and seaborn.
+This project analyzes a retail sales dataset to uncover key insights on customer behavior, product performance, and regional trends using Python libraries like `pandas`, `matplotlib`, and `seaborn`.
 
-## Key Insights:
-- Sales increased consistently from 2014 to 2017, especially in Q4.
-- Top 10 customers account for a disproportionate share of revenue.
-- Technology is the highest-grossing category overall.
-- The East and West regions dominate across all categories.
+## 📊 Key Insights
 
-## Dataset
-This project uses the [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle.  
-It contains sales records from a global retail store, including order dates, customer info, product categories, regions, and profit.
+- Sales show seasonal trends with strong Q4 performance.
+- Technology is the highest-grossing category.
+- The East and West regions lead in sales volume.
+- Top 10 customers account for a significant revenue share.
 
+## 📁 Dataset
 
-## How to Run
-1. Clone this repo
-2. Run the script or notebook in a Python 3 environment with `pandas`, `matplotlib`, and `seaborn` installed.
+Dataset sourced from Kaggle:  
+[Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+## 🛠️ Technologies Used
+
+- Python 3
+- pandas
+- matplotlib
+- seaborn
+
+## 📌 How to Run
+
+1. Clone the repo
+2. Install dependencies:  
+   `pip install -r requirements.txt`
+3. Run the analysis script or open the notebook
+
