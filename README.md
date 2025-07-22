@@ -28,3 +28,17 @@ Dataset sourced from Kaggle:
    `pip install -r requirements.txt`
 3. Run the analysis script or open the notebook
 
+## 📊 Sample Visualizations
+
+### 📈 Monthly Sales Trend
+![Monthly Sales Trend](images/Pic-1.png)
+
+### 🧍‍♂️ Top 10 Customers by Revenue
+![Top Customers](images/Pic-2.png)
+
+### 📦 Sales by Category
+![Sales by Category](images/Pic-3.png)
+
+### 🌍 Regional Category Sales (Heatmap)
+![Sales Heatmap](images/Pic-4.png)
+
