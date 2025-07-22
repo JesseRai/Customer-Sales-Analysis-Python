@@ -9,7 +9,9 @@ This project analyzes sales data from a global retail store to identify trends, 
 - The East and West regions dominate across all categories.
 
 ## Dataset
-[Sample Superstore Data - Tableau](https://community.tableau.com/s/sample-superstore)
+This project uses the [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) from Kaggle.  
+It contains sales records from a global retail store, including order dates, customer info, product categories, regions, and profit.
+
 
 ## How to Run
 1. Clone this repo
